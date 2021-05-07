@@ -1,0 +1,45 @@
+h1 {
+    color: #222;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0 0 16px;
+    text-align: center;
+}
+h2 , li {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+a {
+    background-color: inherit;
+    color: #222;
+    font-weight: 400;
+    text-decoration: none;
+}
+ul {
+    display: list-item;
+    margin-left: 0;
+    padding-left: 45;
+}
+li {
+    display: list-item;
+    margin-left: 0;
+    padding-left: 0;
+    line-height: 0.8rem;
+    
+}
+body {
+    background-color: #fff;
+    color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.625;
+}
